@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project of The Odin Project to test my newly acquired skills in HTML. The project consists in creating a recipe webpage, inside which I'll have to put some links, images and lists, and commit all my work with GitHub so I practice how to use it properly.
